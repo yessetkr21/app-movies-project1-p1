@@ -1,4 +1,3 @@
-# Ir a Wiki para mostrar las capturas
 # 🎬 Movie Reviews App
 Una aplicación web desarrollada con Django que permite a los usuarios cinéfilos descubrir películas, leer sus detalles, y mantenerse al día con noticias destacadas del mundo del cine.
 
@@ -18,6 +17,6 @@ Una aplicación web desarrollada con Django que permite a los usuarios cinéfilo
 - HTML, CSS
 - Bootstrap (opcional para estilo responsivo)
 
-## Captura
+## Captura # Ir a Wiki para mostrar las capturas
 <img width="1897" height="878" alt="home" src="https://github.com/user-attachments/assets/2e3d58c1-907a-45c0-ac05-9addad70486a" />
 
