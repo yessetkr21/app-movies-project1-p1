@@ -17,6 +17,6 @@ Una aplicación web desarrollada con Django que permite a los usuarios cinéfilo
 - HTML, CSS
 - Bootstrap (opcional para estilo responsivo)
 
-## CAPTURA 1 IR A WIKI PARA MOSTRAR TODAS LAS CAPTURAS
+## 📸 CAPTURA 1 IR A WIKI PARA MOSTRAR TODAS LAS CAPTURAS
 <img width="1897" height="878" alt="home" src="https://github.com/user-attachments/assets/2e3d58c1-907a-45c0-ac05-9addad70486a" />
 
